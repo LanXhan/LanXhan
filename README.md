@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **LanXhan/LanXhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm France 👋
+# Hi, I'm 𝓯𝓻𝓪𝓷𝓬𝓮 👋
 
 ### Software Engineer · Front-End Developer · UI/UX Designer · QA
 
